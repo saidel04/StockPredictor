@@ -62,12 +62,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-### Explanation:
-- **Overview**: Brief introduction to the project.
-- **Installation**: Steps to set up the project locally.
-- **Usage**: Instructions on how to run the script.
-- **Files**: Description of the main files in the repository.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: Information about the project's license.
-
