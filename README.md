@@ -71,4 +71,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Contributing**: Guidelines for contributing to the project.
 - **License**: Information about the project's license.
 
-Feel free to customize this `README.md` file as needed for your project. Happy coding and best of luck with your stock price predictions! 📈📉
